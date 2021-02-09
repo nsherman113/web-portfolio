@@ -4,7 +4,7 @@
 Create a web portfolio to share a little about myself, and to showcase web development skills. 
 
 ## Link 
-https://nsherman113.github.io/web-portfolio/
+
 
 ## Sections:
 
